@@ -1,6 +1,6 @@
 # Echo
 
-https://art-practice-next.vercel.app/
+https://echo-project-lake.vercel.app/
 
 This is a Next.js project bootstrapped with create-next-app.
 
